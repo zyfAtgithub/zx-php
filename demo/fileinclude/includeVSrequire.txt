@@ -1,0 +1,3 @@
+PHP include VS require
+
+文件丢失时包含的处理方式：include语句允许脚本继续，但require语句暂停脚本产生致命的E_COMPILE_ERROR级别错误。
